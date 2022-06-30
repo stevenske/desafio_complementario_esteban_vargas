@@ -20,7 +20,7 @@ if(attraction == 'roller coaster'){
     time = 30
 }
 
-alert(`the total is ${price} and your waiting time is ${time} minutes`)
+alert(`the total is $${price} and your waiting time is ${time} minutes`)
 
 let money = prompt ('how much will you pay?')
 
